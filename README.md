@@ -237,18 +237,6 @@ My technical interests include:
 3. **MMSFT:** Multilingual Multimodal Summarization by Fine-tuning Transformers.  
    *IEEE Access (2024).*
 
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=phanikumar96&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phanikumar96&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=phanikumar96&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-</p>
 
 ---
 
